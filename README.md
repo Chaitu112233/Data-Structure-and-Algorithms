@@ -7,9 +7,11 @@ I use this repo to track my learning and improve problem-solving skills.
 - Patterns
 
 ## Folder Structure
+```bash
 DSA/
 ├──Patterns/
 | ├──patterns.cpp
+```
 
 ## How to Run
 
